@@ -1,6 +1,7 @@
 # website-purchase-bot
-Bot to buy Xbox Series X from Walmart US 
-NOTE: It was made for Nov. 25 restock
+Bot to buy Xbox Series X from Walmart US
+
+**NOTE:** It was made for Nov. 25 restock
 
 ## Steps to make sure it works
 1. Create an account at Walmart.com, add preferred Address and Payment option there
